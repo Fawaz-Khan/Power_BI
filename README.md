@@ -2,6 +2,8 @@
 
 ### Instructions to setup mysql on your local computer
 
+Project Description: In this initiative, I engineered an analytical Power BI dashboard by integrating a MySQL dataset into Power BI. I executed data normalization and transformation within Power BI to ensure accurate representation. The dashboard showcases aggregate revenue, sales volume, and market segmentation analytics. It also emphasizes revenue stratification by top-tier customers and leading products. Advanced filters allow temporal slicing of data, empowering stakeholders with granular insights into sales trajectories and critical business metrics for informed strategic deployment.
+
 1. Follow step in this video to install mysql on your local computer
 https://www.youtube.com/watch?v=WuBcTJnIuzo
 
